@@ -7,3 +7,4 @@
 5. [Lab 05](https://github.com/Saiprasannabollam/AIML-2025/blob/main/Lab%2005.ipynb):Implement Logistic Regression using Titanic Ship Data
 6. [Lab 06](https://github.com/Saiprasannabollam/AIML-2025/blob/main/Lab%2006.ipynb): Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
 7. [Lab 07](https://github.com/Saiprasannabollam/AIML-2025/blob/main/Lab07.ipynb):Implement Support Vector Machine using Breast Cancer Data
+8. [Lab 08](https://github.com/Saiprasannabollam/AIML-2025/blob/main/Lab%2008.ipynb):Implement Decision Tree Classifier using Lending Club Data
